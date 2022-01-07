@@ -1,0 +1,29 @@
+\documentclass[12pt]{amsart}
+% \usepackage[margin=1in]{geometry} % Normal (small) font
+% \usepackage[margin=0.4in,paperwidth=480pt,paperheight=690pt]{geometry} % Medium font (~6.7in x ~9.6in): roughly 1.2^2 = 1.44 times normal size
+\usepackage[margin=0.4in,paperwidth=400pt,paperheight=575pt]{geometry} % Large font (~5.6in x ~8.0in): roughly 1.44^2 ~ 2.07 times normal size
+
+\begin{document}
+
+\title{Larger amsart fonts for drafting}
+\author{Victor Wang}
+\date{\today}
+
+\begin{abstract}
+Larger fonts may be good for reducing eyestrain while drafting,
+but 12pt is the default limit, which this template allows one to easily surpass and customize.
+\end{abstract}
+
+\maketitle
+
+\tableofcontents
+
+\section{Introduction}
+
+Hello world
+
+\section{Conclusion}
+
+Hello world
+
+\end{document}

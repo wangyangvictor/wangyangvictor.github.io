@@ -11,7 +11,7 @@
 
 \begin{abstract}
 Larger fonts may be good for reducing eyestrain while drafting,
-but 12pt is the default limit, which this template allows one to easily surpass and customize.
+but 12pt seems to be the default limit in amsart, which this template allows one to easily surpass and customize.
 \end{abstract}
 
 \maketitle
